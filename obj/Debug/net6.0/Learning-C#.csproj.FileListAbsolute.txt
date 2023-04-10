@@ -1,0 +1,15 @@
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\bin\Debug\net6.0\Learning-C#.exe
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\bin\Debug\net6.0\Learning-C#.deps.json
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\bin\Debug\net6.0\Learning-C#.runtimeconfig.json
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\bin\Debug\net6.0\Learning-C#.dll
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\bin\Debug\net6.0\Learning-C#.pdb
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\obj\Debug\net6.0\Learning-C#.csproj.AssemblyReference.cache
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\obj\Debug\net6.0\Learning-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\obj\Debug\net6.0\Learning-C#.AssemblyInfoInputs.cache
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\obj\Debug\net6.0\Learning-C#.AssemblyInfo.cs
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\obj\Debug\net6.0\Learning-C#.csproj.CoreCompileInputs.cache
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\obj\Debug\net6.0\Learning-C#.dll
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\obj\Debug\net6.0\refint\Learning-C#.dll
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\obj\Debug\net6.0\Learning-C#.pdb
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\obj\Debug\net6.0\Learning-C#.genruntimeconfig.cache
+C:\Users\JaydeepGodase\Documents\FCT-Training\Learning-C#\obj\Debug\net6.0\ref\Learning-C#.dll
