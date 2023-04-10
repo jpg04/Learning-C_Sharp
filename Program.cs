@@ -51,7 +51,17 @@ namespace ExampleProject
             //Console.WriteLine("Width : " + box3.GetWidth());
             //Console.WriteLine("Height : " + box3.GetHeight());
 
-            BuiltInDataTyes builtInDataTyes = new BuiltInDataTyes();
+            //BuiltInDataTyes builtInDataTyes = new BuiltInDataTyes();
+
+            //TypeCasting typeCasting = new TypeCasting();
+
+            //TakingInputFromUser takingInputFromUser = new TakingInputFromUser();
+
+            //OperatorsInCS operatorsInCS = new OperatorsInCS();
+
+            //MathClassinCS mathClassinCS = new MathClassinCS();
+
+            StringMethod stringMethod = new StringMethod();
 
 
 
