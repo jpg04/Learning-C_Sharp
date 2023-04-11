@@ -61,7 +61,9 @@ namespace ExampleProject
 
             //MathClassinCS mathClassinCS = new MathClassinCS();
 
-            StringMethod stringMethod = new StringMethod();
+            //StringMethod stringMethod = new StringMethod();
+
+            DecisionMakingStatement decisionMakingStatement = new DecisionMakingStatement();
 
 
 
