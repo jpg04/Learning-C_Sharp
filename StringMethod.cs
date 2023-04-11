@@ -17,6 +17,13 @@ public class StringMethod
 		Console.WriteLine(name.IndexOf("Jaydeep"));
 		Console.WriteLine(name.Substring(1));
 
+		//Escape sequence character
+
+		string fullname = "My Full Name Is \"Jaydeep Popat Godase \" ";
+		string newline = "I want new line between\n Yes\n and\n No\n";
+        Console.WriteLine(fullname);
+		Console.WriteLine(newline);
+
 
 
 
