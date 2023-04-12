@@ -8,19 +8,9 @@ public class DecisionMakingStatement
 
         //int age = 24;
         Console.WriteLine("Enter Your Age : ");
-        string agestr = Console.ReadLine();
-        int  age = Convert.ToInt32(agestr);
-        bool isBanned = true;
+        int age = Convert.ToInt32(Console.ReadLine());
 
-        if (age <10 && isBanned)
-        {
-            Console.WriteLine("You are child or You Are Banned...!");
-        }
-        else if(age < 18 && isBanned)
-        {
-            Console.WriteLine("You are Teenager or You are Banned...!");
-        }
-        else if(age < 75)
+        if (age > 18)
         {
             Console.WriteLine("You are eligible for Drive...!");
         }
