@@ -24,7 +24,7 @@ public class BreakAndContinue
         //    {
         //        continue;
         //    }
-        //    Console.WriteLine(i);
+        //    Conso le.WriteLine(i);
         //}
     }
 }
