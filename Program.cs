@@ -67,7 +67,17 @@ namespace ExampleProject
 
             //IfElseLadder ifElseLadder = new IfElseLadder();
 
-            IfElseLadderInLogicalOperator ifElseLadderInLogicalOperator = new IfElseLadderInLogicalOperator();
+            //IfElseLadderInLogicalOperator ifElseLadderInLogicalOperator = new IfElseLadderInLogicalOperator();
+
+            //SwitchCase switchCase = new SwitchCase();
+
+            //LoopInCSharp loopInCSharp = new LoopInCSharp(); 
+
+            //ForLoopInCSharp loopInCSharp = new ForLoopInCSharp();   
+
+            //DoWhileINCSharp doWhileINCSharp = new DoWhileINCSharp();
+
+            BreakAndContinue breakAndContinue   = new BreakAndContinue();
 
 
 
