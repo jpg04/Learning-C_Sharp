@@ -1,0 +1,15 @@
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\bin\Debug\net6.0\CShaprOOPS.exe
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\bin\Debug\net6.0\CShaprOOPS.deps.json
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\bin\Debug\net6.0\CShaprOOPS.runtimeconfig.json
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\bin\Debug\net6.0\CShaprOOPS.dll
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\bin\Debug\net6.0\CShaprOOPS.pdb
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\obj\Debug\net6.0\CShaprOOPS.csproj.AssemblyReference.cache
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\obj\Debug\net6.0\CShaprOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\obj\Debug\net6.0\CShaprOOPS.AssemblyInfoInputs.cache
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\obj\Debug\net6.0\CShaprOOPS.AssemblyInfo.cs
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\obj\Debug\net6.0\CShaprOOPS.csproj.CoreCompileInputs.cache
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\obj\Debug\net6.0\CShaprOOPS.dll
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\obj\Debug\net6.0\refint\CShaprOOPS.dll
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\obj\Debug\net6.0\CShaprOOPS.pdb
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\obj\Debug\net6.0\CShaprOOPS.genruntimeconfig.cache
+C:\Users\JaydeepGodase\Documents\FCT-Learning\Learning-C#\CShaprOOPS\obj\Debug\net6.0\ref\CShaprOOPS.dll
