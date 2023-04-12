@@ -77,7 +77,17 @@ namespace ExampleProject
 
             //DoWhileINCSharp doWhileINCSharp = new DoWhileINCSharp();
 
-            BreakAndContinue breakAndContinue   = new BreakAndContinue();
+            //BreakAndContinue breakAndContinue   = new BreakAndContinue();
+
+            MethodsInCSharp methodsInCSharp = new MethodsInCSharp();
+
+            MethodsInCSharp.Greet();
+            MethodsInCSharp.Greet("Jaydeep");
+
+            Console.WriteLine("Average of Given Number is : "+MethodsInCSharp.Average(12, 123, 213));
+
+            float temp = MethodsInCSharp.Average(12, 23, 12);
+            Console.WriteLine(temp);
 
 
 
