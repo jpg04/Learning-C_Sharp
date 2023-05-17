@@ -1,5 +1,8 @@
 /* C# finally
-C# finally block is used to execute important code which is to be executed whether exception is handled or not. It must be preceded by catch or try block.
+
+C# finally block is used to execute important code which is to be executed whether exception is handled or not. 
+It must be preceded by catch or try block.
+
 */
 /* using System;
 namespace ExceptionHandling
