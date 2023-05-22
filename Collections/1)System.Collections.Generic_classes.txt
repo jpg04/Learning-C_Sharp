@@ -1,0 +1,12 @@
+1) System.Collections.Generic classes
+The System.Collections.Generic namespace has following classes:
+
+List
+Stack
+Queue
+LinkedList
+HashSet
+SortedSet
+Dictionary
+SortedDictionary
+SortedList
