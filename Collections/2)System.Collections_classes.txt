@@ -1,0 +1,7 @@
+2) System.Collections classes
+These classes are legacy. It is suggested now to use System.Collections.Generic classes. The System.Collections namespace has following classes:
+
+ArrayList
+Stack
+Queue
+Hashtable
