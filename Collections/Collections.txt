@@ -1,0 +1,16 @@
+C# Collections
+In C#, collection represents group of objects. 
+By the help of collections, we can perform various operations on objects such as
+
+* - store object
+* - update object
+* - delete object
+* - retrieve object
+* - search object, and
+* - sort object
+
+In sort, all the data structure work can be performed by C# collections.
+
+We can store objects in array or collection. 
+Collection has advantage over array. 
+Array has size limit but objects stored in collection can grow or shrink dynamically.
