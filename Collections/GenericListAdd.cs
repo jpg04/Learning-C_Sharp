@@ -28,5 +28,39 @@ class GenericListAdd
         {
             System.Console.WriteLine(name);
         }
+    
+        System.Console.WriteLine("---RemoveAt(3)--- This Function Will remove elements at index No 3");
+        names.RemoveAt(3);
+
+        foreach(var name in names)
+        {
+            System.Console.WriteLine(name);
+        }
+
+        System.Console.WriteLine();
+
+        System.Console.WriteLine("---Insert(3)--- This Function will insert new elements at index no 3");
+        names.Insert(3,"Jaydeep Godase");
+        foreach(var name in names)
+        {
+            System.Console.WriteLine(name);
+        }
+
+        System.Console.WriteLine();
+
+        System.Console.WriteLine("Before using Clear()");
+        System.Console.WriteLine("---Clear--- This Function will remove or clear all elements presents in the list.");
+        names.Clear();
+        System.Console.WriteLine("Clear()");
+        System.Console.WriteLine("Capacity : {0}",names.Capacity);
+        System.Console.WriteLine("Count : {0}",names.Count);
+
+        foreach(var name in names)
+        {
+            System.Console.WriteLine("Given Name list Is : "+name);
+        }
+        System.Console.WriteLine("After Using Clear()");
+
     }
+
 }
