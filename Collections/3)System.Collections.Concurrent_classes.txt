@@ -1,0 +1,14 @@
+3) System.Collections.Concurrent classes
+The System.Collections.Concurrent namespace provides classes for thread-safe operations. 
+Now multiple threads will not create problem for accessing the collection items.
+
+The System.Collections.Concurrent namespace has following classes:
+
+BlockingCollection
+ConcurrentBag
+ConcurrentStack
+ConcurrentQueue
+ConcurrentDictionary
+Partitioner
+Partitioner
+OrderablePartitioner
