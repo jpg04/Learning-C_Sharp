@@ -1,0 +1,16 @@
+C# Reflection
+In C#, reflection is a process to get metadata of a type at runtime. The System.Reflection namespace contains required classes for reflection such as:
+
+Type
+MemberInfo
+ConstructorInfo
+MethodInfo
+FieldInfo
+PropertyInfo
+TypeInfo
+EventInfo
+Module
+Assembly
+AssemblyName
+Pointer etc.
+The System.Reflection.Emit namespace contains classes to emit metadata.
