@@ -1,3 +1,8 @@
+/* 
+C# Threading Abort() method
+The Abort() method is used to terminate the thread. 
+It raises ThreadAbortException if Abort operation is not done.
+*/
 using System;
 using System.Threading;
 
