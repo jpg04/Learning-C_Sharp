@@ -1,0 +1,33 @@
+C# Thread class
+C# Thread class provides properties and methods to create and control threads. 
+It is found in System.Threading namespace.
+
+C# Thread Properties
+A list of important properties of Thread class are given below:
+_____________________________________________________________________________________________________________________________________
+|   Property	        |   Description
+|____________________________________________________________________________________________________________________________________
+|   CurrentThread	    |   returns the instance of currently running thread.
+|   IsAlive	            |   checks whether the current thread is alive or not. It is used to find the execution status of the thread.
+|   IsBackground	    |   is used to get or set value whether current thread is in background or not.
+|   ManagedThreadId	    |   is used to get unique id for the current managed thread.
+|   Name	            |   is used to get or set the name of the current thread.
+|   Priority	        |   is used to get or set the priority of the current thread.
+|   ThreadState	        |   is used to return a value representing the thread state.
+_______________________________________________________________________________________________________________________________________
+
+C# Thread Methods
+A list of important methods of Thread class are given below:
+ ______________________________________________________________________________________________
+|   Method	        |       Description                                                        |    
+|___________________|__________________________________________________________________________|
+|   Abort()	        |   is used to terminate the thread. It raises ThreadAbortException.       |
+|   Interrupt()	    |   is used to interrupt a thread which is in WaitSleepJoin state.         |
+|   Join()	        |   is used to block all the calling threads until this thread terminates. |
+|   ResetAbort()	|   is used to cancel the Abort request for the current thread.            |
+|   Resume()	    |   is used to resume the suspended thread. It is obselete.                |
+|   Sleep(Int32)	|   is used to suspend the current thread for the specified milliseconds.  |
+|   Start()	        |   changes the current state of the thread to Runnable.                   |
+|   Suspend()	    |   suspends the current thread if it is not suspended. It is obselete.    |
+|   Yield()	        |   is used to yield the execution of current thread to another thread.    |
+|___________________|__________________________________________________________________________|
