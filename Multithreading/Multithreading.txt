@@ -1,0 +1,27 @@
+C# Multithreading
+Multithreading in C# is a process in which multiple threads work simultaneously. 
+It is a process to achieve multitasking. It saves time because multiple tasks are being executed at a time. 
+To create multithreaded application in C#, we need to use System.Threding namespace.
+
+System.Threading Namespace
+The System.Threading namespace contains classes and interfaces to provide 
+the facility of multithreaded programming. 
+It also provides classes to synchronize the thread resource. 
+A list of commonly used classes are given below:
+
+Thread
+Mutex
+Timer
+Monitor
+Semaphore
+ThreadLocal
+ThreadPool
+Volatile etc.
+
+Process and Thread
+A process represents an application whereas a thread represents a module of the application. 
+Process is heavyweight component whereas thread is lightweight. 
+A thread can be termed as lightweight subprocess because it is executed inside a process.
+
+Whenever you create a process, a separate memory area is occupied. 
+But threads share a common memory area.
