@@ -1,0 +1,8 @@
+C# Anonymous Functions
+Anonymous function is a type of function that does not has name. 
+In other words, we can say that a function without name is known as anonymous function.
+
+In C#, there are two types of anonymous functions:
+
+Lambda Expressions
+Anonymous Methods
