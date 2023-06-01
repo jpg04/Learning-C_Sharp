@@ -1,6 +1,8 @@
 /* C# Anonymous Methods
+
 * Anonymous method provides the same functionality as lambda expression, 
 * except that it allows us to omit parameter list.
+
 */
 
 using System;
