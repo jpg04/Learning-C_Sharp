@@ -1,7 +1,9 @@
 /* C# Lambda Expressions
+
 * Lambda expression is an anonymous function which we can use to create delegates. 
 * We can use lambda expression to create local functions that can be passed as an argument. 
 * It is also helpful to write LINQ queries.
+
 */
 
 /* 
