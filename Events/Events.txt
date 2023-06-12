@@ -1,0 +1,41 @@
+Events in C#
+The Event is something special that is going to happen. 
+Here we will take an example of an event, where Microsoft launches the events for the developer. 
+In this Event, Microsoft wants to aware the developer about the feature of the existing or new products. 
+For this, Microsoft will use Email or other advertisement options to aware the developer about the Event. 
+So, in this case, Microsoft will work as a publisher who raises the Event and notifies the developers about it. 
+Developers will work as the subscriber of the Event who handles the Event.
+
+Similarly, in C#, Events follow the same concept. 
+In C#, Event can be subscriber, publisher, subscriber, notification, and a handler. 
+Generally, the User Interface uses the events. 
+Here we will take an example of Button control in Windows. 
+Button performs multiple events such as click, mouseover, etc. 
+The custom class contains the Event through which we will notify 
+the other subscriber class about the other things which is going to happen. 
+So, in this case, we will define the Event and inform the other classes about the Event, 
+which contains the event handler.
+
+The event is an encapsulated delegate. 
+C# and .NET both support the events with the delegates. 
+When the state of the application changes, 
+events and delegates give the notification to the client application. 
+Delegates and Events both are tightly coupled for dispatching the events, 
+and event handling require the implementation of the delegates. 
+The sending event class is known as the publisher, 
+and the receiver class or handling the Event is known as a subscriber.
+
+Key Points about the Events are:
+The key points about the events are as:
+
+1. In C#, event handler will take the two parameters as input and return the void.
+2. The first parameter of the Event is also known as the source, which will publish the object.
+3. The publisher will decide when we have to raise the Event, 
+   and the subscriber will determine what response we have to give.
+4. Event can contain many subscribers.
+5. Generally, we used the Event for the single user action like clicking on the button.
+6. If the Event includes the multiple subscribers, then synchronously event handler invoked.
+
+Declaration of the Event
+Syntax : 
+public event EventHandler CellEvent;
