@@ -87,5 +87,12 @@ namespace CRUD_Application
 
             dataGridView1.DataSource = dt;
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
+        }
     }
 }
