@@ -12,9 +12,9 @@ using System.Windows.Forms;
 
 namespace CRUD_Application
 {
-    public partial class Form1 : Form
+    public partial class CRUD_Application : Form
     {
-        public Form1()
+        public CRUD_Application()
         {
             InitializeComponent();
         }
@@ -86,6 +86,7 @@ namespace CRUD_Application
             da.Fill(dt);
 
             dataGridView1.DataSource = dt;
+            con.Close();
         }
 
         private void button5_Click(object sender, EventArgs e)

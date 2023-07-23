@@ -1,6 +1,6 @@
 ﻿namespace CRUD_Application
 {
-    partial class Form1
+    partial class CRUD_Application
     {
         /// <summary>
         /// Required designer variable.
@@ -80,7 +80,7 @@
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(301, 8);
+            this.textBox1.Location = new System.Drawing.Point(556, 8);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(350, 30);
             this.textBox1.TabIndex = 3;
@@ -88,7 +88,7 @@
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(301, 79);
+            this.textBox2.Location = new System.Drawing.Point(556, 79);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(350, 30);
             this.textBox2.TabIndex = 4;
@@ -96,7 +96,7 @@
             // textBox3
             // 
             this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.Location = new System.Drawing.Point(301, 150);
+            this.textBox3.Location = new System.Drawing.Point(556, 150);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(350, 30);
             this.textBox3.TabIndex = 5;
@@ -117,7 +117,7 @@
             // 
             this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(195, 234);
+            this.button2.Location = new System.Drawing.Point(262, 234);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(109, 46);
             this.button2.TabIndex = 7;
@@ -129,7 +129,7 @@
             // 
             this.button3.BackColor = System.Drawing.Color.Red;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(310, 234);
+            this.button3.Location = new System.Drawing.Point(438, 234);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(109, 46);
             this.button3.TabIndex = 9;
@@ -141,7 +141,7 @@
             // 
             this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(425, 234);
+            this.button4.Location = new System.Drawing.Point(618, 234);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(109, 46);
             this.button4.TabIndex = 10;
@@ -151,20 +151,21 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
             this.dataGridView1.BackgroundColor = System.Drawing.Color.White;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(80, 316);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 62;
             this.dataGridView1.RowTemplate.Height = 28;
-            this.dataGridView1.Size = new System.Drawing.Size(571, 268);
+            this.dataGridView1.Size = new System.Drawing.Size(826, 268);
             this.dataGridView1.TabIndex = 11;
             // 
             // button5
             // 
             this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.Location = new System.Drawing.Point(542, 234);
+            this.button5.Location = new System.Drawing.Point(797, 234);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(109, 46);
             this.button5.TabIndex = 12;
@@ -172,7 +173,7 @@
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
-            // Form1
+            // CRUD_Application
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(20F, 37F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -191,8 +192,8 @@
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "CRUD_Application";
+            this.Text = "CRUD_Application";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
